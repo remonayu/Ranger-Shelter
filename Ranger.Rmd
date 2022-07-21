@@ -12,3 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 print('HelloRangers')
+### Introduction
+
+We see the Metaverse as an inevitable technological revolution in the future. Just as the internet revolutionized communication as we know it today, professionals on the subject expect the Metaverse to do the same. Future MBAn students are more than likely to experience the evolution of this concept and even start utilizing it in their classrooms and workplaces.
+We envision that our project is going to be a handout on how Metaverse is going to impact each area of our day-to-day lives, especially the transformation from 2D interaction (Zoom/FaceTime) to 3D interaction (metaverse). We are going to start with the principles that lead to more efficient teamwork in 2D, followed by the technological innovation that Metaverse could bring to it, such as tracking eye contact, body language, facial micro-expression, and the elimination of physical distance in 2D interaction. This would result in a more natural and psychologically safe environment than common video call platforms, leading to a more efficient communication and teamwork experience. Under those innovation points, we would include detailed discussions about teamwork in different aspects of our lives where interaction happens, such as Work, Study, Business, Medicine, Social Media, and Traveling. 
+
