@@ -1,11 +1,15 @@
-# Hello bookdown 
+# Proposal
+We see the Metaverse as an inevitable technological revolution in the future. Just as the internet revolutionized communication as we know it today, professionals on the subject expect the Metaverse to do the same. Future MBAn students are more than likely to experience the evolution of this concept and even start utilizing it in their classrooms and workplaces. We envision that our project is going to be a handout on how Metaverse is going to impact each area of our day-to-day lives, especially the transformation from 2D interaction (Zoom/FaceTime) to 3D interaction (metaverse). We are going to start with the principles that lead to more efficient teamwork in 2D, followed by the technological innovation that Metaverse could bring to it, such as tracking eye contact, body language, facial micro-expression, and the elimination of physical distance in 2D interaction. This would result in a more natural and psychologically safe environment than common video call platforms, leading to a more efficient communication and teamwork experience. Under those innovation points, we would include detailed discussions about teamwork in different aspects of our lives where interaction happens, such as Work, Study, Business, Medicine, Social Media, and Traveling.
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+At the moment, we expect the following to be some of the topics we will include in our handbook:
 
-## A section
+- How work will look like in the Metaverse
+- How will the Metaverse create a better work-life balance
+- How will the Metaverse create a more psychologically safe environment
+- How simulations in the Metaverse can affect team decision-making, education, and an alternative form of communication through simulations
+- The future These, however, are subject to change as 
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+our research dives more deeply into the topic.
+Other than the positive changes that Metaverse will bring to our workspace, we are also expecting to see revolutionary transformation in other relevant areas. For example, we envision that Metaverse will create a new economic environment, with countless business opportunities. With the adoption of Metaverse, we expect to see an upgrade in our current technological devices and software. Everything that we now do online — gaming, social media, entertainment, shopping, will all be altered in order to fit in the Metaverse.
 
-### An unnumbered section {-}
-
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+Despite the amazing changes that Metaverse promises, constant exposure to it may also bring potential downsides —- addiction, privacy issues, losing touch with the real world and people, discontinuation of cultures and traditions, etc. In our handbook, we will instruct the future students of MBAn on how to approach Metaverse in moderation.
