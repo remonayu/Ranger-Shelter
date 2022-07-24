@@ -1,5 +1,8 @@
 Welcome! 
 
+Our book URL is https://remonayu.github.io/Ranger-Shelter/
+
+
 This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
 This template provides a skeleton file structure that you can edit to create your book. 
