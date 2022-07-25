@@ -11,7 +11,7 @@ Hello, My name is Liyang Yu (Remona). I am from Dalian, China, a beautiful small
 
 ## Runze Huang
 
-I am from Dalian, China. I developed a huge interest in cooking since I went to college. I love making Chinese and French cuisine, and my signature dish is Seared Duck Breast with Orange Sauce. Besides enjoying delicious food, The cooking experience is a great time for me to be with myself and reflect on recent experience. Although I enjoy cooking by myself, I love inviting friends over to have lunch or dinner!
+I am from Dalian, China. I have developed a huge interest in cooking since I went to college. I love making Chinese and French cuisine, and my signature dish is Seared Duck Breast with Orange Sauce. Besides enjoying delicious food, The cooking experience is a great time for me to be with myself and reflect on recent experience. Although I enjoy cooking by myself, I love inviting friends over to have lunch or dinner!
 
 ## Jennifer 
 
@@ -22,4 +22,6 @@ Right now I am starting the MBAn program (Master of Business Analytics) at Unive
 ## Carlo
 
 Saludos, I am Carlo De los Santos and I was born and raised in the beautiful piece of land called the Dominican Republic. Just recently, I graduated from the University of Michigan with a Bachelor’s degree in Business Administration. At the moment I decided to stay one more year in the best university in the world (Go Blue!) to complete a Master’s degree in Business Analytics at the Stephen M. Ross School of Business. I enjoy playing some sports like Ultimate Frisbee and Volleyball, listening to reggaeton and rock music, and traveling.
+
+
 
