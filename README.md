@@ -1,6 +1,6 @@
 Welcome! 
 
-Our book URL is https://remonayu.github.io/Ranger-Shelter/
+Our book URL link is https://remonayu.github.io/Ranger-Shelter/
 
 
 Additional resources:
