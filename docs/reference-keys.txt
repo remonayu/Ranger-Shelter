@@ -1,12 +1,5 @@
-eq:binom
-thm:tri
 preface
 proposal
-table-of-content
-blocks
-equations
-theorems-and-proofs
-callout-blocks
 cross
 mengna-wang
 remona-yu
