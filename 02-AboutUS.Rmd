@@ -1,7 +1,7 @@
 # About_US {#cross}
 
 ```{r pressure, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("ranger picture.jpg")
+#knitr::include_graphics("ranger_picture.jpg")
 
 ```
 

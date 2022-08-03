@@ -1,3 +1,5 @@
+eq:binom
+thm:tri
 about
 proposal
 cross
