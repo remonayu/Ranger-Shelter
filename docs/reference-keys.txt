@@ -1,6 +1,6 @@
 eq:binom
 thm:tri
-about
+preface
 proposal
 table-of-content
 blocks
