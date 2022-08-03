@@ -1,13 +1,42 @@
 # About_US {#cross}
 
+```{r pressure, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("ranger picture.jpg")
+
+```
+
 
 ## Mengna Wang
+![mypic](/Users/wangmengna/Desktop/Ranger-Shelter/Pic.jpeg){width=20%}
 
-Hi, this is Mengna Wang, you can also call me Mona. I grow up from Suzhou China, a place known with a lot of rivers and bridges. I came to the United States 5 years ago, and went to high school and undergraduate at upstate NY. I always wanted to explore new places in the United States, not just for travel but actually stay there and experience everything there, because I stayed in NY for so long. I am super happy about the opportunity to study at University of Michigan, a completely different place than NY, which is kind of a dream come true opportunity hahaha, and I love here a lot so far. My goal for this year is to finish the program successfully and take the most from the program, have fun and make lots of friends!
+Hi, this is Mengna Wang. I grow up from Suzhou China, a place known with a lot of rivers and bridges. I came to the United States 5 years ago, and went to high school and undergraduate at upstate NY. I always wanted to explore new places in the United States, not just for travel but actually stay there and experience everything there, because I stayed in NY for so long. I am super happy about the opportunity to study at University of Michigan, a completely different place than NY, which is kind of a dream come true opportunity hahaha, and I love here a lot so far. My goal for this year is to finish the program successfully and take the most from the program, have fun and make lots of friends!
 
-## Remona Yu 
+## Remona Yu *
 
+<<<<<<< HEAD
+
+There are two steps to cross-reference any heading:
+
+1. Label the heading: `# Hello world {#nice-label}`. 
+    - Leave the label off if you like the automated heading generated based on your heading title: for example, `# Hello world` = `# Hello world {#hello-world}`.
+    - To label an un-numbered heading, use: `# Hello world {-#nice-label}` or `{# Hello world .unnumbered}`.
+
+1. Next, reference the labeled heading anywhere in the text using `\@ref(nice-label)`; for example, please see Chapter \@ref(cross). 
+    - If you prefer text as the link instead of a numbered reference use: [any text you want can go here](#cross).
+
+## Remona Yu
+
+
+
+
+
+Figures and tables *with captions* can also be cross-referenced from elsewhere in your book using `\@ref(fig:chunk-label)` and `\@ref(tab:chunk-label)`, respectively.
+
+
+
+=======
 Hello, My name is Liyang Yu (Remona). I am from Dalian, China, a beautiful small sea port city in the Northeast part of China. This is my 8th year in the United States. I am a typical ENFP, I love to communicate, love to travel, and love all the possible new surprises that occur in life.
+>>>>>>> 435a56cdbee6313e30e40915dfc903c828d85b6c
 
 ## Runze Huang
 
