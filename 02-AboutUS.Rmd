@@ -13,15 +13,19 @@ Hello, My name is Liyang Yu (Remona). I am from Dalian, China, a beautiful small
 
 I am from Dalian, China. I have developed a huge interest in cooking since I went to college. I love making Chinese and French cuisine, and my signature dish is Seared Duck Breast with Orange Sauce. Besides enjoying delicious food, The cooking experience is a great time for me to be with myself and reflect on recent experience. Although I enjoy cooking by myself, I love inviting friends over to have lunch or dinner!
 
-## Jennifer 
+## Jennifer Feng
+
+![](images/jennifer.jpg){width=250px}
 
 Hi I'm Jennifer. I was born in Shanghai, China, on May 3rd, 2000. In 2014, I went to a boarding school in Birmingham, AL.
 In May 2022, I graduated from William and Mary with a BBA in Finance and a minor in Economics.
 Right now I am starting the MBAn program (Master of Business Analytics) at University of Michigan Ann Arbor. On a less serious note, I love painting and baking. I love the feeling of oil paint on canvas, and the rich smell of baked goods that floods the kitchen when I open the oven door. 
 
-## Carlo DLS
+## Carlo De los Santos
 
-Saludos, I am Carlo De los Santos and I was born and raised in the beautiful piece of land called the Dominican Republic. Just recently, I graduated from the University of Michigan with a Bachelor’s degree in Business Administration. At the moment I decided to stay one more year in the best university in the world (Go Blue!) to complete a Master’s degree in Business Analytics at the Stephen M. Ross School of Business. I enjoy playing some sports like Ultimate Frisbee and Volleyball, listening to reggaeton and rock music, and traveling.
+![](images/carlo.jpg){width=250px}
+
+Hola! I am Carlo De los Santos and I was born and raised in the beautiful piece of land called the Dominican Republic. Just recently, I graduated from the University of Michigan with a Bachelor’s degree in Business Administration. At the moment I decided to stay one more year in the best university in the world (Go Blue!) to complete a Master’s degree in Business Analytics at the Stephen M. Ross School of Business. I enjoy playing some sports like Ultimate Frisbee and Volleyball, listening to reggaeton and rock music, and traveling.
 
 
 
