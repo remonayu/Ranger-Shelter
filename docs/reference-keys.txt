@@ -1,17 +1,15 @@
-eq:binom
-thm:tri
 about
 proposal
 cross
 mengna-wang
 remona-yu
 runze-huang
-jennifer
-carlo-dls
-parts
+jennifer-feng
+carlo-de-los-santos
 footnotes-and-citations
 footnotes
 citations
+table-of-content
 blocks
 equations
 theorems-and-proofs
@@ -20,6 +18,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-url-your-book-url-like-httpsbookdown.orgpowerbirangersbookdown
-jennifer-feng
-carlo-de-los-santos
