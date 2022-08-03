@@ -13,7 +13,3 @@ remona-yu
 runze-huang
 jennifer-feng
 carlo-de-los-santos
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
