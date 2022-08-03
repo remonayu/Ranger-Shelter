@@ -9,8 +9,7 @@ preview-book
 proposal
 cross
 mengna-wang
-remona-yu
-runze-huang
+remona-wang
 jennifer
 carlo
 parts
@@ -25,3 +24,4 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+r-markdown
