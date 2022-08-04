@@ -15,10 +15,10 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Preface
 
-This is the introduction page of Power Rangers.
-Will upload more files in the future 
+This page will give an introduction to our manual on topics regarding the Metaverse.
+Especifically, this manual will include general information about the Metaverse, its benefits, and how to use it to its potential in various different settings.
 
 
 ```{r include=FALSE}

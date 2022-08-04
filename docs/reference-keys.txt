@@ -1,4 +1,4 @@
-about
+preface
 proposal
 cross
 mengna-wang
@@ -6,15 +6,3 @@ remona-yu
 runze-huang
 jennifer-feng
 carlo-de-los-santos
-footnotes-and-citations
-footnotes
-citations
-table-of-content
-blocks
-equations
-theorems-and-proofs
-callout-blocks
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
