@@ -1,3 +1,12 @@
-# Using its Potential in Different Professions
+# Potential in Different Professions
 
-Remona's notes go here
+The highly interactive feature of VR brings opportunity for precise scenario imitation, which works best with professions that require high interaction and multiple scenario practices. Following such principle, we collected the data of current VR imitation for students in three study fields.
+
+**Criminal Justice**
+With the purpose to bring more training experience for criminal justice students to form a clear decision in various cases, VR training software offers a big screen, sound immersion, and scenario setting to help students engage in case practice. Through this training scenario, students are required to define the mission objective, then apply language intervention/external intervention to solve the case. Five major scenario settings have been included: de-escalation, use of force, mental illness, skill drills, and low light. All the scenario settings are created based on case reports that appear in the United States in the past 5 years, to form the most realistic scenario for testing. 
+
+**Medical Training**
+The VR system  shapes the practice environment by simulating the real cause of the patient's illness. During the surgery, software displays instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. The learning mode also allows a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
+
+**Business Team Cooperation**
+Based on the curriculum of business studies, students have a high frequency to work as a team. To improve the efficiency of team cooperation, VR could build an environment that allows higher interaction and better demonstration of thoughts. VR scenarios could build multiple rooms/environments/space for various purposes: meeting room, classroom, style or capacity is fully manageable. During the meeting, students could present files more conveniently to others, bring files in PDFs, image, video, or even 3D models to present. Meanwhile, they can use any space as a canvas, to present drawings, paintings, writing, all these forms for notes record or idea demonstration. Besides those, more body interaction could be supported in the VR meetings than in typical voice/video calls. Hand shakes, hugs, bows, are possible to form a higher psychological safety between team members. 

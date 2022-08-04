@@ -2,7 +2,9 @@
 
 ## Virtual Reality
 
-There are a few steps to set up a VR space before starting to use it.
+When VR space is set up, there are three peripherals needed to immerse into virtual reality: Headset provides the VR visual, controllers provide the physical control in VR world, and headphones to give the audio experience. Users need to start up the application on a PC or console before starting a VR simulation. Then, the user can put the headset on and adjust it to fit. Users will also hold the controllers and start to control the experience on screen through their body move and the controllers. Once everything is ready, the user will be immersed in the scene, which will move and interact as if they were in real action.
+
+There are a few steps to set up a VR space before starting to use it:
 
 ![](images/vrSetup.png){width=400}
 
