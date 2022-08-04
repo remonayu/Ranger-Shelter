@@ -1,4 +1,4 @@
-# About US {#cross}
+# About Us {#cross}
 
 ```{r pressure, echo=FALSE, out.width = '100%'}
 #knitr::include_graphics("ranger_picture.jpg")
@@ -44,7 +44,7 @@ Right now I am starting the MBAn program (Master of Business Analytics) at Unive
 
 ![](images/carlo.jpg){width=250}
 
-Hola! I am Carlo De los Santos and I was born and raised in the beautiful piece of land called the Dominican Republic. Just recently, I graduated from the University of Michigan with a Bachelor’s degree in Business Administration. At the moment I decided to stay one more year in the best university in the world (Go Blue!) to complete a Master’s degree in Business Analytics at the Stephen M. Ross School of Business. I enjoy playing some sports like Ultimate Frisbee and Volleyball, listening to reggaeton and rock music, and traveling.
+Hola! I am Carlo De los Santos and I was born and raised in the beautiful piece of land called the Dominican Republic. Just recently, I graduated from the University of Michigan with a Bachelor’s degree in Business Administration. At the moment I decided to stay one more year in the best university in the world (Go Blue!) to complete a Master’s degree in Business Analytics at the Stephen M. Ross School of Business. I enjoy playing sports like Ultimate Frisbee and Volleyball, listening to reggaeton and rock music, and traveling.
 
 [Carlo's LinkedIn](https://www.linkedin.com/in/carlo-alberto-de-los-santos-747318204/)
 

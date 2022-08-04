@@ -1,5 +1,12 @@
 preface
 proposal
+set-up-guide
+virtual-reality
+wifi-and-troubleshooting-help
+burnout-and-health-effects
+avoiding-burnout
+dealing-with-health-side-effects
+using-its-potential-in-different-professions
 cross
 mengna-wang
 remona-yu
