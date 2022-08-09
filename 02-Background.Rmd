@@ -18,3 +18,11 @@ our research dives more deeply into the topic.
 Other than the positive changes that Metaverse will bring to our workspace, we are also expecting to see revolutionary transformation in other relevant areas. For example, we envision that Metaverse will create a new economic environment, with countless business opportunities. With the adoption of Metaverse, we expect to see an upgrade in our current technological devices and software. Everything that we now do online — gaming, social media, entertainment, shopping, will all be altered in order to fit in the Metaverse.
 
 Despite the amazing changes that Metaverse promises, constant exposure to it may also bring potential downsides —- addiction, privacy issues, losing touch with the real world and people, discontinuation of cultures and traditions, etc. In our handbook, we will instruct the future students of MBAn on how to approach Metaverse in moderation.
+
+Multi-Sensory: 
+When people use current technology such as phone, computer, and television, the media generally stimulates them from the visual sensory, because most media is still two dimensional. Although movies now support three, or even four dimensional format, the lack of immersion stagnates the growth of these technologies. In virtual reality, people need to put on headsets and grab controllers to experience the simulated world, which leads to experience in multi-sensory. Other than visual sensory, people would experience auditory sensory, movement sensory, touching sensory, and even tasting sensory. In an ideal virtual reality, people should be able to experience most of the sensory they can experience in the real world
+Immersion: 
+With the Multi-Sensory feature, people should be able to feel like they are in the real world. Therefore, a sensory experience is evaluated by the level of immersion that the system brings to users. A good virtual reality should give the users a hard time distinguishing the real world from the virtual world. 
+Interactivity:
+Interactivity determines if Users are able to interact with objects in virtual reality. For instance, if users want to grab an object in virtual reality, the user needs to feel the momentum of grabbing and feel the weight of the object too. 
+
