@@ -1,5 +1,5 @@
 --- 
-title: "Metaverse impact on teamwork"
+title: "Metaverse and VR for Education and Business"
 author: "Power BI Rangers"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -15,10 +15,9 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Preface
+# Introduction
 
-This page will give an introduction to our manual on topics regarding the Metaverse.
-Especifically, this manual will include general information about the Metaverse, its benefits, and how to use it to its potential in various different settings.
+What is this thing called the Metaverse and what is the big deal about it? This guide will answer this question and more. We want to help our audience understand what is the Metaverse and other related terms, ideas on how to use it properly, and what is its potential to transform our lives in an education and business context.
 
 
 ```{r include=FALSE}

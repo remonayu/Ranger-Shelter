@@ -1,7 +1,8 @@
-book_filename: "How the Metaverse affects Teamworks"
+book_filename: "Metaverse and VR for Education and Business"
 delete_merged_file: true
 output_dir: "docs"
 language:
   ui:
     chapter_name: ""
-rmd_files: ["index.Rmd", "02-Proposal.Rmd", "03-SetUp.Rmd", "04-Health.Rmd" , "05-Professions.Rmd", "06-NewChapter.Rmd", "99-AboutUS.Rmd"]
+rmd_files: ["index.Rmd", "02-Background.Rmd", "03-SetUp.Rmd", "04-Education.Rmd", 
+            "05-Company.Rmd", "06-Sociocultural.Rmd", "07-Health.Rmd", "99-AboutUS.Rmd"]

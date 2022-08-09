@@ -1,12 +1,14 @@
-preface
-proposal
+introduction
+background-information
 set-up-guide
 virtual-reality
 wifi-and-troubleshooting-help
+educational-use
+company-use
+sociocultural-implications
 burnout-and-health-effects
 avoiding-burnout
 dealing-with-health-side-effects
-potential-in-different-professions
 cross
 mengna-wang
 remona-yu
