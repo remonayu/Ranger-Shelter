@@ -1,1 +1,63 @@
 # Educational Use
+
+## General Classrom Use
+
+**Students**
+
+VR is going to give teachers and students what previously have been unavailable. Teachers could use VR for simulations, giving the students an almost realistic setting. For example, over the past week, the students of OYM participated in a business simulation called Bizcafe, where students managed a new coffee shop. Though the website made this simulation extremely detailed, it didn’t feel real. However, if we were to use VR for this simulation, we couldn have really immersed ourselves in a “real” coffee shop, and “seen” its daily operations. As shop owners, we could’ve “talked” to the npc’s like employees and customers. VR would’ve added a “realistic” touch to the online simulation. 
+
+In general, students are more attracted to less conventional teaching methods. Aside from using VR in simulations, teachers should incorporate VR in regular, everyday classroom, where they “transport” students into the subject they are studying. Students will be able to literally “touch”, “see”, and “interact” with the things they are studying. For example, medical students can use VR to operate on bodies; engineering students can use VR to build models; computer science majors can use VR to “move” codes around, and see the “inner mechanism” of softwares, etc. VR gives teachers the possibility to create a truly immersive and interactive studying environment, and the actual content should depend on the subject. By doing so, students will definitely become more attentive in the classroom. 
+
+As you can imagine, a virtual class environment will include more distractions than a conventional classroom. In order to only impose positive changes to the classroom, the teachers need to make sure of the following: 
+
+* Before the classes start, the teachers should set rules for classroom etiquette. The rule should include things like no smartphone usage or limited activities that are unrelated to the class material. 
+* The teacher should set clear expectations for the students, and openly communicate with them. 
+* Be explicit about when the students should be participating, versus when they are free to explore on their own. 
+* It is ok for students to socialize during class, but only during the time frames set by the teachers. 
+* Limit class time to keep students engaged with the right amount of energy. This can also avoid the possibility of burnout or other negative health implications from using VR headsets for an extended period of time. 
+* The professor should only use softwares that aligns with the educational goals, have been widely adopted, and backed up with extensive technical support. 
+* Make sure that the class material’s learning curve is not too steep for the students’ level. 
+* Always prioritize the students’ safety and security. 
+
+Using VR in the classrooms will revolutionize the education industry. Students will be able to get hands-on experience in the classroom, improving the lesson’s effectiveness and students’ productivity. However, the teachers need to make sure that VR does not sidetrack their students’ academic progress.  
+
+**Professors**
+
+In this section, we explore the instruction from professor’s perspective. Based on under story we have created from professor interview, the concern of “increase student’s productivity in class” will be addressed. 
+
+To design the instruction of a productive metaverse classroom, it is important to understand the motivation factor behind productivity. The article, improving educaiton productivity from Herbert J. Walberg, examines the factor that influence productivity by meta-analysis and control group research. The following table summrized nine factors on educational productivity, followed by propotional learning effect as decimal number list on the right.  
+
+
+
+## Examples in Different Professions
+
+Virtual reality in education is especially useful for learning visual and tactile subjects, rather than conceptual and abstract ones. VR excels at creating simulations that leave a long-lasting impression on the student. People are more likely to remember experiences rather than lectures from a teacher. The following are examples of possible uses in different subjects.
+
+**Criminal Justice & Business Cases**
+
+With the purpose to bring more training experience for criminal justice students to form a clear decision in various cases, VR training software offers a big screen, sound immersion, and scenario setting to help students engage in case practice. Through this training scenario, students could be required to define the mission objective, then apply language intervention/external intervention to solve the case. Currently, company X has developed a similar product which includes five major scenario settings: de-escalation, use of force, mental illness, skill drills, and low light. All the scenario settings are created based on case reports that appear in the United States in the past 5 years, to form the most realistic scenario for testing. 
+
+Similarly, business students can be put into the actual cases that they are assigned to read. They can explore a company themselves, look at the operations taking place, be in a presentation when the case exhibits are being presented to the company, and much more. There could even be interactivity between the user and an NPC, or an non-player character. Imagine being placed into a company operating during the Great Recession. The business student will probably understand a crisis, high-stakes environment and the actions to take much better after this experience. Finally, if technological advancements allow, the student can give their optimal solution to the case and see the effects of their solution on the business going forward. This gives the student the ability reflect and understand what went right and/or wrong in their decision-making
+
+**Medical Training**
+
+A VR system application can be used to imitate the practice environment of a surgeon by simulating the real cause of the patient's illness. Another company, Y, that is developing an application for surgery simulation has included a software display with instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. Their learning mode also allows for a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
+https://www.youtube.com/watch?v=7C7zAXf2EI0
+
+
+**Scientific Concepts**
+
+Most students love whenever it is experiment day in their physics, chemistry, or biology class; and experiments are still incorporated into classes because there are benefits to doing hands-on activities. In-class experiments can help students retain information more clearly and understand more fundamentally the concepts being taught. Experiments, however, are limited by the availability of physical resources and time teachers and professors have to set up. Using Virtual Reality to conduct experiments in the classroom allows students to have pseudo-hands-on experiences and the set up for a VR scenario can be done much more quickly and efficiently than in person. 
+
+For example, the Doppler effect explains why Formula 1 cars’ sound goes from high to low as they pass through you. This is the sound of a Formula 1 car passing by someone: https://www.youtube.com/watch?v=9HgTpWgw6q8 
+
+As an object emitting waves, or sound waves in this example, moves relatively closer to you, the waves clump up, getting to you with more frequency. As the object passes by you and moves relatively away from you, the waves reach you with less frequency. And this video explains the Doppler effect more clearly: https://www.youtube.com/watch?v=h4OnBYrbCjY
+
+Imagine if instead of watching this explanatory video, a student could put on a Virtual Reality headset and be placed on the front row of a Formula 1 event. A car approaches you from one side, emitting sound waves of the screeching, squealing and scraping of the car. As it passes by you, you hear the pitch of the sound go down. The sound waves reach you less frequently, thus lowering the pitch. This would probably be a much more memorable experience 5 years from now, than the example video provided above. 
+
+**History Courses**
+
+Finally, Virtual Reality could make the lecture and reading based history class one of the most fun courses for students by, similar to the business case applicability, fully immersing students into events of the past. Going to class, putting on a headset, and in the blink of an eye suddenly appearing moments before Abraham Lincoln's Gettysburg Address would be nothing short of immersive and memorable. One thing history class can teach is the facts, but one it can not truly convey to students are the feelings felt throughout some historical events. Virtually being in the middle of the crowd during the ‘I have a Dream Speech’ would probably make any student understand the sheer magnitude of importance and emotions experienced at the moment.
+
+
+## Potential for the Future

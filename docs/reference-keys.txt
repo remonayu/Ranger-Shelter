@@ -2,8 +2,12 @@ introduction
 background-information
 set-up-guide
 virtual-reality
+classroom-business-integration
 wifi-and-troubleshooting-help
 educational-use
+general-classrom-use
+examples-in-different-professions
+potential-for-the-future
 company-use
 sociocultural-implications
 burnout-and-health-effects

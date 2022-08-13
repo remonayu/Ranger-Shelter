@@ -1,28 +1,39 @@
 # Background Information
-*NEED TO UPDATE*
 
-
-
-**James' Part**
-We see the Metaverse as an inevitable technological revolution in the future. Just as the internet revolutionized communication as we know it today, professionals on the subject expect the Metaverse to do the same. Future MBAn students are more than likely to experience the evolution of this concept and even start utilizing it in their classrooms and workplaces. We envision that our project is going to be a handout on how Metaverse is going to impact each area of our day-to-day lives, especially the transformation from 2D interaction (Zoom/FaceTime) to 3D interaction (metaverse). We are going to start with the principles that lead to more efficient teamwork in 2D, followed by the technological innovation that Metaverse could bring to it, such as tracking eye contact, body language, facial micro-expression, and the elimination of physical distance in 2D interaction. This would result in a more natural and psychologically safe environment than common video call platforms, leading to a more efficient communication and teamwork experience. Under those innovation points, we would include detailed discussions about teamwork in different aspects of our lives where interaction happens, such as Work, Study, Business, Medicine, Social Media, and Traveling.
-
-At the moment, we expect the following to be some of the topics we will include in our handbook:
-
-- How work will look like in the Metaverse
-- How will the Metaverse create a better work-life balance
-- How will the Metaverse create a more psychologically safe environment
-- How simulations in the Metaverse can affect team decision-making, education, and an alternative form of communication through simulations
-- The future These, however, are subject to change as 
-
-our research dives more deeply into the topic.
-Other than the positive changes that Metaverse will bring to our workspace, we are also expecting to see revolutionary transformation in other relevant areas. For example, we envision that Metaverse will create a new economic environment, with countless business opportunities. With the adoption of Metaverse, we expect to see an upgrade in our current technological devices and software. Everything that we now do online — gaming, social media, entertainment, shopping, will all be altered in order to fit in the Metaverse.
-
-Despite the amazing changes that Metaverse promises, constant exposure to it may also bring potential downsides —- addiction, privacy issues, losing touch with the real world and people, discontinuation of cultures and traditions, etc. In our handbook, we will instruct the future students of MBAn on how to approach Metaverse in moderation.
-
+**What is VR**
+VR, Virtual Reality, is a technology that simulates the real world in a virtual environment, and there are four important features that define this technology.
 Multi-Sensory: 
-When people use current technology such as phone, computer, and television, the media generally stimulates them from the visual sensory, because most media is still two dimensional. Although movies now support three, or even four dimensional format, the lack of immersion stagnates the growth of these technologies. In virtual reality, people need to put on headsets and grab controllers to experience the simulated world, which leads to experience in multi-sensory. Other than visual sensory, people would experience auditory sensory, movement sensory, touching sensory, and even tasting sensory. In an ideal virtual reality, people should be able to experience most of the sensory they can experience in the real world
+When people use current technology such as phones, computers, and television, the media generally stimulates them from the visual sensory, because most media is still two dimensional. Although movies now support three, or even four dimensional format, the lack of immersion stagnates the growth of these technologies. In virtual reality, people need to put on headsets and grab controllers to experience the simulated world, which leads to experience in multi-sensory. Other than visual sensory, people would experience auditory sensory, movement sensory, touching sensory, and even tasting sensory. In an ideal virtual reality, people should be able to experience most of the sensory they can experience in the real world
 Immersion: 
 With the Multi-Sensory feature, people should be able to feel like they are in the real world. Therefore, a sensory experience is evaluated by the level of immersion that the system brings to users. A good virtual reality should give the users a hard time distinguishing the real world from the virtual world. 
 Interactivity:
 Interactivity determines if Users are able to interact with objects in virtual reality. For instance, if users want to grab an object in virtual reality, the user needs to feel the momentum of grabbing and feel the weight of the object too. 
+Imagination
+Other than creating a world that highly simulates reality, Virtual Reality gives users the opportunity to create inventions and new ideas that are beyond reality. The ability to create things or life that are not in reality will unleash people’s imagination.
+
+**What is the Metaverse?**
+VR is the technology that allows people to enter a virtual environment, and Metaverse is a new social institution that allows people to meet and interact in virtual reality. This new platform allows people to break boundaries and connect with people from around the world. In this manual, you will learn potential ways to utilize the Metaverse as people from different professions. 
+
+**How to get access to Metaverse**
+With the VR technology, VR headset and controllers are essential tools to maximize the experience on Metaverse. In fact in 2020, Meta released its own VR headsets, Meta Quest 2, retailed at $399. 
+
+
+**Comparable products in the market**
+Other than the Meta Quest 2, there are a few similar product offerings in the market. This section will list the product, the purchase link and price
+
+* Meta Quest
+  + Features: 6DoF, LCD display, 3D positional audio, 1832 x 1920 Resolution Per Eye
+  + Price: $399
+* Pico Neo 2
+  + Features: 6DoF, 4K display, 101° field of view (FOV), built-in spacial stereo speakers
+  + Price: $699
+* Pico Neo 2 Eye
+  + Features: Every Neo 2 features plus an eye-tracking technology
+  + Price: $899
+* HTC Vive
+  + Features: Single front-facing camera, adjustable velcro straps, uses an HDMI to connect to your machine, 2160 x 1200 resolution
+  + Price: $899
+* Valve Index
+  + Key Features: 130° FOV, 6DoF, externalized audio, 2880 x 1660 resolution, canted lens design
+  + Price: $999
 
