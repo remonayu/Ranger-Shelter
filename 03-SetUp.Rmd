@@ -29,7 +29,7 @@ However, VR headsets are not necessary, any laptop or smartphone can help people
 
 ## Classroom & Business Integration
 
-#### How do schools integrate the Metaverse experience in classes?
+**How do schools integrate the Metaverse experience in classes?**
 
 ![](images/vrschool.png){width=500}
 
@@ -40,7 +40,7 @@ Like we mentioned above, the Metaverse provides an interoperable experience that
  “Our fifth-grade students join with their teachers while learning from home to collaborate and complete gaming-style assignments, using avatars and earning online currency for completing the assigned tasks.” - Olga Romero, founding principal at Dallas Hybrid Prep. Besides, with the VR headsets and controllers will make the experience more immersively in class, which also allows students to interact with each other even if they are thousands of miles apart. With the technology of VR, students can do things such as virtual field trips, explore the human body, as well as a tool for art and creativity. Nowadays, two major players Meta and Roblox are investing heavily to expand the Metaverse in education. Meta is investing $150 million in Mera Immersive Learning, while Roblox is investing millions of dollars to help different educational organizations create virtual learning experiences.
 
 
-#### How do businesses integrate the Metaverse experience in the workplace?
+**How do businesses integrate the Metaverse experience in the workplace?**
 
 ![](images/vrbusiness.png){width=500}
 
