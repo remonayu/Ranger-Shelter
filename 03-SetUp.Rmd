@@ -22,8 +22,10 @@ You can also mount it on camera tripod stands, which you can easily move around,
 ![](images/tripod.png){width=250}
 
 Different types of VR devices
- * Standalone devices such as Oculus that do not need to connect to the computer, but can download content directly from the internet to make it work 
- * Another types such as HP headsets needs to connect to the computer to create virtual reality environment
+
+* Standalone devices such as Oculus that do not need to connect to the computer, but can download content directly from the internet to make it work 
+
+* Another types such as HP headsets needs to connect to the computer to create virtual reality environment
 However, VR headsets are not necessary, any laptop or smartphone can help people easily enter the metaverse through different platforms. 
 
 
