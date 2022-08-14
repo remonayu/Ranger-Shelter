@@ -12,9 +12,14 @@ Imagination
 Other than creating a world that highly simulates reality, Virtual Reality gives users the opportunity to create inventions and new ideas that are beyond reality. The ability to create things or life that are not in reality will unleash people’s imagination.
 
 **What is the Metaverse?**
+
+![](images/metaverse-landscape-glow-800x450.jpeg){width=250}
 VR is the technology that allows people to enter a virtual environment, and Metaverse is a new social institution that allows people to meet and interact in virtual reality. This new platform allows people to break boundaries and connect with people from around the world. In this manual, you will learn potential ways to utilize the Metaverse as people from different professions. 
 
 **How to get access to Metaverse**
+
+![](images/Meta-Quest-2---128GB.jpeg){width=250}
+
 With the VR technology, VR headset and controllers are essential tools to maximize the experience on Metaverse. In fact in 2020, Meta released its own VR headsets, Meta Quest 2, retailed at $399. 
 
 
@@ -27,12 +32,14 @@ Other than the Meta Quest 2, there are a few similar product offerings in the ma
 * Pico Neo 2
   + Features: 6DoF, 4K display, 101° field of view (FOV), built-in spacial stereo speakers
   + Price: $699
+![](images/m-neo2-1.jpeg){width=250}
 * Pico Neo 2 Eye
   + Features: Every Neo 2 features plus an eye-tracking technology
   + Price: $899
 * HTC Vive
   + Features: Single front-facing camera, adjustable velcro straps, uses an HDMI to connect to your machine, 2160 x 1200 resolution
   + Price: $899
+![](images/vive_pro_pdp_desktop-mian-min.png){width=250}
 * Valve Index
   + Key Features: 130° FOV, 6DoF, externalized audio, 2880 x 1660 resolution, canted lens design
   + Price: $999
