@@ -27,7 +27,7 @@ In this section, we explore the instruction from professor’s perspective. Base
 
 To design the instruction of a productive metaverse classroom, it is important to understand the motivation factor behind productivity. The article, improving educaiton productivity from Herbert J. Walberg, examines the factor that influence productivity by meta-analysis and control group research. The following table summrized nine factors on educational productivity, followed by propotional learning effect as decimal number list on the right.  
 
-## How to create a more immersive experience for professors
+## Immersive experience for classroom
 
 **Factor effect productivity**
 
