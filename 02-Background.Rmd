@@ -3,13 +3,17 @@
 **What is VR**
 
 VR, Virtual Reality, is a technology that simulates the real world in a virtual environment, and there are four important features that define this technology.
+
 Multi-Sensory: 
 When people use current technology such as phones, computers, and television, the media generally stimulates them from the visual sensory, because most media is still two dimensional. Although movies now support three, or even four dimensional format, the lack of immersion stagnates the growth of these technologies. In virtual reality, people need to put on headsets and grab controllers to experience the simulated world, which leads to experience in multi-sensory. Other than visual sensory, people would experience auditory sensory, movement sensory, touching sensory, and even tasting sensory. In an ideal virtual reality, people should be able to experience most of the sensory they can experience in the real world
+
 Immersion: 
 With the Multi-Sensory feature, people should be able to feel like they are in the real world. Therefore, a sensory experience is evaluated by the level of immersion that the system brings to users. A good virtual reality should give the users a hard time distinguishing the real world from the virtual world. 
+
 Interactivity:
 Interactivity determines if Users are able to interact with objects in virtual reality. For instance, if users want to grab an object in virtual reality, the user needs to feel the momentum of grabbing and feel the weight of the object too. 
-Imagination
+
+Imagination:
 Other than creating a world that highly simulates reality, Virtual Reality gives users the opportunity to create inventions and new ideas that are beyond reality. The ability to create things or life that are not in reality will unleash people’s imagination.
 
 **What is the Metaverse?**
