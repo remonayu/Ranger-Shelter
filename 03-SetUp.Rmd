@@ -8,11 +8,11 @@ There are a few steps to set up a VR space before starting to use it:
 
 ![](images/vrSetup.png){width=400}
 
-Step 1 - Make Sure to Have Plenty of Space
+**Step 1 - Make Sure to Have Plenty of Space**
 
 It is better to have more space for VR setup, at least 6.5 x 5 feet is recommended. Chairs, tables, and anything you can bump into while using VR should be kept away from the VR space to avoid tripping hazards. You should also consider having enough airspace, for example low ceilings, or dangling ceiling lights that you can easily touch on are not recommended. Finally, try to avoid reflective surfaces and windows while using VR because they might cause tracking issues of the headset and controller and make your view spin out of control.
 
-Step 2 - Setup the Base Station
+**Step 2 - Setup the Base Station**
 
 VR headsets and controllers rely on base stations for tracking their exact locations in order to create the illusion of room-scale immersion in virtual reality. It usually comes with two base stations to help the VR work. To set up Base stations, it needs to be diagonally mounted across from each other and above the head, solidly to avoid wobble. There are few ways to mount the base station. You can choose to mount it into the wall which is the most ideal way to save spaces and usually it’s more stable. 
 ![](images/wallMount.png){width=250}
@@ -21,7 +21,7 @@ You can also mount it on camera tripod stands, which you can easily move around,
 
 ![](images/tripod.png){width=250}
 
-Different types of VR devices
+**Different types of VR devices**
 
 * Standalone devices such as Oculus that do not need to connect to the computer, but can download content directly from the internet to make it work 
 
