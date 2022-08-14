@@ -35,6 +35,8 @@ In this section, we explore the instruction from professor’s perspective. Base
 
 To design the instruction of a productive metaverse classroom, it is important to understand the motivation factor behind productivity. The article, improving educaiton productivity from Herbert J. Walberg, examines the factor that influence productivity by meta-analysis and control group research. The following table summrized nine factors on educational productivity, followed by propotional learning effect as decimal number list on the right.  
 
+![](images/table1.png){width=300}
+
 Based on table 1, we can confirm that a student's knowledge of a particular field is heavily dependent on his or her own judgment of achievement/ability. If a student has achieved good grades in finance in the past, he/she will be more motivated to learn finance in the future because of the default "I am capable/gifted in finance". Based on this factor, we can infer that when a professor helps students to reshape their perceptions of a field from "knowledge is difficult and I don't want to learn it" to "knowledge is not difficult and I can understand it", it has a significant effect on students' motivation to learn This will have a significant effect on students' motivation. The implementation of this approach requires not only efficient teaching methods but also positive psychological cues for students. To ensure the long-term motivation and productivity of students.
 
 The article also assesses the impact of delivery methods by measuring the effectiveness of students' understanding of new knowledge. table 2 shows the impact of the nine most common delivery methods used across the United States.
