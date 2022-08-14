@@ -35,11 +35,15 @@ However, VR headsets are not necessary, any laptop or smartphone can help people
 
 Like we mentioned above, the Metaverse provides an interoperable experience that combines the digital world with the physical world. More and more industries started to explore the Metaverse as one of their resources; schools are beginning to use it as their teaching tools to provide a better learning experience for students through immersive experiences. Schools mainly get access to the Metaverse through different platforms and resources such as ISTE from the company Roblox, STEMuli metaverse, Labster (a virtual labs and science simulations platform), ENGAGE and Mozilla Hubs (VR platforms that provide a simulated environment for virtual collaboration). For example, the first school which uses a Metaverse platform in class is called Dallas Hybrid Prep. The school is cooperating with STEMuli Metaverse and allows students to join the class and complete assignments from home through their laptops or tablets.
 
+![](images/vrhighschool.png){width=500}
 
  “Our fifth-grade students join with their teachers while learning from home to collaborate and complete gaming-style assignments, using avatars and earning online currency for completing the assigned tasks.” - Olga Romero, founding principal at Dallas Hybrid Prep. Besides, with the VR headsets and controllers will make the experience more immersively in class, which also allows students to interact with each other even if they are thousands of miles apart. With the technology of VR, students can do things such as virtual field trips, explore the human body, as well as a tool for art and creativity. Nowadays, two major players Meta and Roblox are investing heavily to expand the Metaverse in education. Meta is investing $150 million in Mera Immersive Learning, while Roblox is investing millions of dollars to help different educational organizations create virtual learning experiences.
 
 
-How do businesses integrate the Metaverse experience in the workplace?
+#### How do businesses integrate the Metaverse experience in the workplace?
+
+![](images/vrbusiness.png){width=500}
+
 In the business world, similar to the school settings, companies usually create online in-office experiences through Metaverse, employees can move and interact with each other with an avatar in the virtual office place by using VR headsets. For example, With NextMeet’s immersive platform, employee digital avatars can pop in and out of virtual offices and meeting rooms in real-time, walk up to a virtual help desk, give a live presentation from the dais, relax with colleagues in a networking lounge, or roam a conference center or exhibition using a customizable avatar. Participants access the virtual environment via their desktop computer or mobile device, pick or design their avatar, and then use keyboard buttons to navigate the space: arrow keys to move around, double click to sit on a chair, and so forth. [3] 
 
 

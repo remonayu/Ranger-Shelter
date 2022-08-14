@@ -3,6 +3,7 @@ background-information
 set-up-guide
 virtual-reality
 classroom-business-integration
+how-do-schools-integrate-the-metaverse-experience-in-classes
 wifi-and-troubleshooting-help
 educational-use
 general-classrom-use
