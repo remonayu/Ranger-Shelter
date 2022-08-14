@@ -14,6 +14,8 @@ Other than creating a world that highly simulates reality, Virtual Reality gives
 **What is the Metaverse?**
 
 ![](images/metaverse-landscape-glow-800x450.jpeg){width=250}
+
+
 VR is the technology that allows people to enter a virtual environment, and Metaverse is a new social institution that allows people to meet and interact in virtual reality. This new platform allows people to break boundaries and connect with people from around the world. In this manual, you will learn potential ways to utilize the Metaverse as people from different professions. 
 
 **How to get access to Metaverse**
