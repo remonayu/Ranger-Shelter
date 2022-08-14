@@ -6,9 +6,12 @@ classroom-business-integration
 wifi-and-troubleshooting-help
 educational-use
 general-classrom-use
+immersive-experience-for-classroom
 examples-in-different-professions
 potential-for-the-future
 company-use
+commerce
+entertainment
 sociocultural-implications
 burnout-and-health-effects
 avoiding-burnout
@@ -19,8 +22,3 @@ remona-yu
 runze-huang
 jennifer-feng
 carlo-de-los-santos
-how-to-create-a-more-immersive-experience-for-professors
-create-a-more-immersive-experience-for-professors
-immersive-experience-for-classroom
-commerce
-entertainment
