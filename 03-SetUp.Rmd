@@ -31,6 +31,8 @@ However, VR headsets are not necessary, any laptop or smartphone can help people
 
 #### How do schools integrate the Metaverse experience in classes?
 
+![](images/vrschool.png){width=500}
+
 Like we mentioned above, the Metaverse provides an interoperable experience that combines the digital world with the physical world. More and more industries started to explore the Metaverse as one of their resources; schools are beginning to use it as their teaching tools to provide a better learning experience for students through immersive experiences. Schools mainly get access to the Metaverse through different platforms and resources such as ISTE from the company Roblox, STEMuli metaverse, Labster (a virtual labs and science simulations platform), ENGAGE and Mozilla Hubs (VR platforms that provide a simulated environment for virtual collaboration). For example, the first school which uses a Metaverse platform in class is called Dallas Hybrid Prep. The school is cooperating with STEMuli Metaverse and allows students to join the class and complete assignments from home through their laptops or tablets.
 
 
