@@ -66,7 +66,6 @@ We provide a draft on metaversmic classroom principles based on the  Zoom Teachi
 (*Teachers need to adjust the following rules based on how dependent the classroom is on the metaverse and how long vr devices are used:)
 
 
-
 ## Examples in Different Professions
 
 Virtual reality in education is especially useful for learning visual and tactile subjects, rather than conceptual and abstract ones. VR excels at creating simulations that leave a long-lasting impression on the student. People are more likely to remember experiences rather than lectures from a teacher. The following are examples of possible uses in different subjects.
