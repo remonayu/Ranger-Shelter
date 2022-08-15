@@ -59,7 +59,7 @@ Based on Table 1, we can confirm that a student's knowledge of a particular fiel
 | Setting goals and providing feedback | 0.61 |
 | Generating and testing hypotheses | 0.61 |
 |  Activating prior knowledge | 0.59 |
-(Table 2)
+[(Table 2)](https://psycnet.apa.org/record/1988-24694-001)
 
 
 The article also assesses the impact of delivery methods by measuring the effectiveness of students' understanding of new knowledge. Table 1 shows the impact of the nine most common delivery methods used across the United States.
@@ -93,19 +93,19 @@ With the purpose to bring more training experience for criminal justice students
 
 Similarly, business students can be put into the actual cases that they are assigned to read. They can explore a company themselves, look at the operations taking place, be in a presentation when the case exhibits are being presented to the company, and much more. There could even be interactivity between the user and an NPC, or an non-player character. Imagine being placed into a company operating during the Great Recession. The business student will probably understand a crisis, high-stakes environment and the actions to take much better after this experience. Finally, if technological advancements allow, the student can give their optimal solution to the case and see the effects of their solution on the business going forward. This gives the student the ability reflect and understand what went right and/or wrong in their decision-making
 
-**Medical Training**
+[**Medical Training**](https://www.youtube.com/watch?v=7C7zAXf2EI0)
 
 A VR system application can be used to imitate the practice environment of a surgeon by simulating the real cause of the patient's illness. Another company, Y, that is developing an application for surgery simulation has included a software display with instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. Their learning mode also allows for a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
 
-The following YouTube video shows how surgical training can be done 5x faster using virtual reality: https://www.youtube.com/watch?v=7C7zAXf2EI0
+This  [YouTube video](https://www.youtube.com/watch?v=7C7zAXf2EI0) shows how surgical training can be done 5x faster using virtual reality. 
 
-**Scientific Concepts**
+[**Scientific Concepts**]( https://www.youtube.com/watch?v=9HgTpWgw6q8)
 
 Most students love whenever it is experiment day in their physics, chemistry, or biology class; and experiments are still incorporated into classes because there are benefits to doing hands-on activities. In-class experiments can help students retain information more clearly and understand more fundamentally the concepts being taught. Experiments, however, are limited by the availability of physical resources and time teachers and professors have to set up. Using Virtual Reality to conduct experiments in the classroom allows students to have pseudo-hands-on experiences and the set up for a VR scenario can be done much more quickly and efficiently than in person. 
 
-For example, the Doppler effect explains why Formula 1 cars’ sound goes from high to low as they pass through you. This is the sound of a Formula 1 car passing by someone:  https://www.youtube.com/watch?v=9HgTpWgw6q8 
+For example, the Doppler effect explains why Formula 1 cars’ sound goes from high to low as they pass through you. This is the [sound](https://www.youtube.com/watch?v=9HgTpWgw6q8 ) of a Formula 1 car passing by someone.
 
-As an object emitting waves, or sound waves in this example, moves relatively closer to you, the waves clump up, getting to you with more frequency. As the object passes by you and moves relatively away from you, the waves reach you with less frequency. And this video explains the Doppler effect more clearly:  https://www.youtube.com/watch?v=h4OnBYrbCjY
+As an object emitting waves, or sound waves in this example, moves relatively closer to you, the waves clump up, getting to you with more frequency. As the object passes by you and moves relatively away from you, the waves reach you with less frequency. And this video explains the [Doppler effect](https://www.youtube.com/watch?v=h4OnBYrbCjY) more clearly 
 
 Imagine if instead of watching this explanatory video, a student could put on a Virtual Reality headset and be placed on the front row of a Formula 1 event. A car approaches you from one side, emitting sound waves of the screeching, squealing and scraping of the car. As it passes by you, you hear the pitch of the sound go down. The sound waves reach you less frequently, thus lowering the pitch. This would probably be a much more memorable experience 5 years from now, than the example video provided above. 
 
