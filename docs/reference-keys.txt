@@ -6,7 +6,7 @@ classroom-business-integration
 wifi-and-troubleshooting-help
 educational-use
 general-classrom-use
-immersive-experience-for-classroom
+professors-guidelines
 examples-in-different-professions
 company-use
 commerce
