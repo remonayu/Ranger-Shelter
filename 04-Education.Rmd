@@ -110,7 +110,10 @@ Similarly, business students can be put into the actual cases that they are assi
 **Medical Training**
 
 A VR system application can be used to imitate the practice environment of a surgeon by simulating the real cause of the patient's illness. Another company, Y, that is developing an application for surgery simulation has included a software display with instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. Their learning mode also allows for a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
-https://www.youtube.com/watch?v=7C7zAXf2EI0
+
+![](https://www.youtube.com/watch?v=7C7zAXf2EI0)
+
+![](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
 
 
 **Scientific Concepts**
