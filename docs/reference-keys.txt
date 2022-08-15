@@ -3,7 +3,6 @@ background-information
 set-up-guide
 virtual-reality
 classroom-business-integration
-how-do-schools-integrate-the-metaverse-experience-in-classes
 wifi-and-troubleshooting-help
 educational-use
 general-classrom-use
@@ -23,4 +22,3 @@ remona-yu
 runze-huang
 jennifer-feng
 carlo-de-los-santos
-how-do-businesses-integrate-the-metaverse-experience-in-the-workplace
