@@ -5,4 +5,5 @@ language:
   ui:
     chapter_name: ""
 rmd_files: ["index.Rmd", "02-Background.Rmd", "03-SetUp.Rmd", "04-Education.Rmd", 
-            "05-Company.Rmd", "06-Sociocultural.Rmd", "07-Health.Rmd", "08-Team.Rmd", "99-AboutUS.Rmd"]
+            "05-Company.Rmd", "06-Sociocultural.Rmd", "07-Health.Rmd",
+            "08-Team.Rmd", "09-References.Rmd","99-AboutUS.Rmd"]
