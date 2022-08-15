@@ -24,9 +24,13 @@ Interactivity determines if users are able to interact with objects in virtual r
 Other than creating a world that highly simulates reality, Virtual Reality gives users the opportunity to create inventions and new ideas that are beyond reality. The ability to create things or life that are not in reality will unleash people’s imagination.
 
 **What is the Metaverse?**
+
+
+
 <center>
-![](images/metaverse-landscape-glow-800x450.jpeg){width=250}
+![](images/metaverse-landscape-glow-800x450.jpeg){width=400}
 </center>
+
 
 VR is the technology that allows people to enter a virtual environment, and Metaverse is a new social institution that allows people to meet and interact in virtual reality. This new platform allows people to break boundaries and connect with people from around the world. In this manual, you will learn potential ways to utilize the Metaverse as people from different professions. 
 
