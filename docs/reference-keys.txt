@@ -8,7 +8,6 @@ educational-use
 general-classrom-use
 immersive-experience-for-classroom
 examples-in-different-professions
-potential-for-the-future
 company-use
 commerce
 entertainment

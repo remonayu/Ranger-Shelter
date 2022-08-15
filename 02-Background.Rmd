@@ -40,9 +40,7 @@ With the VR technology, VR headset and controllers are essential tools to maximi
 
 Other than the Meta Quest 2, there are a few similar product offerings in the market. This section will list the product, the purchase link and price
 
-<center>
-![](images/vive_pro_pdp_desktop-mian-min.png){width=250} 
-</center>
+
 
 <br></br>
 
@@ -54,7 +52,10 @@ Other than the Meta Quest 2, there are a few similar product offerings in the ma
 | HTC Vive | Single front-facing camera, adjustable | $899 |
 | Valve Index | 130° FOV, 6DoF, externalized audio, 2880 x 1660 resolution, canted lens design | $999 |
 
+<center>
+![Pico Neo 2](images/m-neo2-1.jpeg){width=250}
+</center>
 
-![](images/m-neo2-1.jpeg){width=250}
-
-
+<center>
+![HTC Vive](images/vive_pro_pdp_desktop-mian-min.png){width=250} 
+</center>

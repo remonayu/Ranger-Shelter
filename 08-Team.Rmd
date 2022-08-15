@@ -5,6 +5,7 @@
 We  designed five sections for the team contract to better understand each other and to be better corporate in the future. The design follows the team corporation concept from Professor Domagala’s lessons. Overall, we included our team purpose, team vision, norms, strengths and weaknesses, methods on how to come to agreements, and plans for future meetings. 
 
 **Why did we choose Metaverse as the topic**
+
 From studying RStudio (soon to be called Posit) and team management, we decided to pick up a topic that brings a combination of themes from this class, while being inspiring for and better prepare the future Ross students. Therefore, we came up with four topics at the very beginning, including: How Web 3.0 will affect team management; Scrum; The Metaverse’s effects on business and education; Microsoft team; and Amazon cloud service. Then with professor Kumar’s suggestion and the majority vote in the group, we picked The Metaverse’s effects on business and education as the final topic.
 
  
