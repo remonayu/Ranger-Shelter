@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Team Process
 
+=======
+# Team Process
+>>>>>>> a283d01459b85fbe28d7d8343da87c17b92930e4
