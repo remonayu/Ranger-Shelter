@@ -1,6 +1,8 @@
 # Team Process
 
+<center>
 ![](images/Team.jpeg){width=550}
+</center>
 
 **Design of team contract**
 
