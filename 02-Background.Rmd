@@ -5,7 +5,7 @@
 ![](images/banner2.png){width=120}
 </center>
 
-VR, Virtual Reality, is a technology that simulates the real world in a virtual environment, and there are four important features that define this technology.
+VR, Virtual Reality, is a technology that simulates the real world in a virtual environment, and there are [four important features](https://www.researchgate.net/publication/286196533_Multisensory_Presence_in_Virtual_Reality_Possibilities_Limitations) that define this technology.
 
 **Multi-Sensory:** 
 
@@ -25,14 +25,11 @@ Other than creating a world that highly simulates reality, Virtual Reality gives
 
 **What is the Metaverse?**
 
-
-
 <center>
 ![](images/metaverse-landscape-glow-800x450.jpeg){width=400}
 </center>
 
-
-VR is the technology that allows people to enter a virtual environment, and Metaverse is a new social institution that allows people to meet and interact in virtual reality. This new platform allows people to break boundaries and connect with people from around the world. In this manual, you will learn potential ways to utilize the Metaverse as people from different professions. 
+VR is the technology that allows people to enter a virtual environment, and Metaverse is a new [social institution](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/reimagining-the-postpandemic-workforce) that allows people to meet and interact in virtual reality. This new platform allows people to break boundaries and connect with people from around the world. In this manual, you will learn potential ways to utilize the Metaverse as people from different professions. 
 
 **How to get access to Metaverse**
 <center>
@@ -44,7 +41,7 @@ With the VR technology, VR headset and controllers are essential tools to maximi
 
 **Comparable products in the market**
 
-Other than the Meta Quest 2, there are a few similar product offerings in the market. The following is a table comparing the most high end popular virtual reality headsets
+Other than the Meta Quest 2, there are a few similar product offerings in the market. The following is a [table](https://roundtablelearning.com/top-5-vr-headset-alternatives-to-the-oculus-quest/) comparing the most high end popular virtual reality headsets
 
 
 <br></br>

@@ -19,6 +19,8 @@ As you can imagine, a virtual class environment will include more distractions t
 
 Using VR in the classrooms will revolutionize the education industry. Students will be able to get hands-on experience in the classroom, improving the lesson’s effectiveness and students’ productivity. However, the teachers need to make sure that VR does not sidetrack their students’ academic progress.  
 
+[source1](https://www.stepteachers.co.uk/blog/2019/03/how-virtual-reality-can-augment-or-distract-from-education?source=google.com)
+[source2](https://blog.planbook.com/virtual-classroom-distractions/)
 
 ## Professors' Guidelines
 
@@ -93,13 +95,13 @@ With the purpose to bring more training experience for criminal justice students
 
 Similarly, business students can be put into the actual cases that they are assigned to read. They can explore a company themselves, look at the operations taking place, be in a presentation when the case exhibits are being presented to the company, and much more. There could even be interactivity between the user and an NPC, or an non-player character. Imagine being placed into a company operating during the Great Recession. The business student will probably understand a crisis, high-stakes environment and the actions to take much better after this experience. Finally, if technological advancements allow, the student can give their optimal solution to the case and see the effects of their solution on the business going forward. This gives the student the ability reflect and understand what went right and/or wrong in their decision-making
 
-[**Medical Training**](https://www.youtube.com/watch?v=7C7zAXf2EI0)
+**Medical Training**
 
 A VR system application can be used to imitate the practice environment of a surgeon by simulating the real cause of the patient's illness. Another company, Y, that is developing an application for surgery simulation has included a software display with instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. Their learning mode also allows for a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
 
-This  [YouTube video](https://www.youtube.com/watch?v=7C7zAXf2EI0) shows how surgical training can be done 5x faster using virtual reality. 
+This [YouTube video](https://www.youtube.com/watch?v=7C7zAXf2EI0) shows how surgical training can be done 5x faster using virtual reality. 
 
-[**Scientific Concepts**]( https://www.youtube.com/watch?v=9HgTpWgw6q8)
+**Scientific Concepts**
 
 Most students love whenever it is experiment day in their physics, chemistry, or biology class; and experiments are still incorporated into classes because there are benefits to doing hands-on activities. In-class experiments can help students retain information more clearly and understand more fundamentally the concepts being taught. Experiments, however, are limited by the availability of physical resources and time teachers and professors have to set up. Using Virtual Reality to conduct experiments in the classroom allows students to have pseudo-hands-on experiences and the set up for a VR scenario can be done much more quickly and efficiently than in person. 
 
