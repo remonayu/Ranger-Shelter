@@ -41,7 +41,7 @@ To design the instruction of a productive Metaverse classroom, it is important t
 | Home environment or "curriculum of the home" | 0.36 |
 | Peer group outside school | 0.20 |
 | Minimal leisure-time mass media exposure, particularly television | 0.20 |
-[(Table 1)](https://psycnet.apa.org/record/1988-24694-001)
+[(Table 1)](https://www.researchgate.net/publication/44829325_Improving_educational_productivity)
 
 
 
@@ -59,7 +59,7 @@ Based on Table 1, we can confirm that a student's knowledge of a particular fiel
 | Setting goals and providing feedback | 0.61 |
 | Generating and testing hypotheses | 0.61 |
 |  Activating prior knowledge | 0.59 |
-[(Table 2)](https://psycnet.apa.org/record/1988-24694-001)
+[(Table 2)](https://www.researchgate.net/publication/44829325_Improving_educational_productivity)
 
 
 The article also assesses the impact of delivery methods by measuring the effectiveness of students' understanding of new knowledge. Table 1 shows the impact of the nine most common delivery methods used across the United States.
