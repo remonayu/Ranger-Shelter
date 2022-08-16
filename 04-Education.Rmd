@@ -110,7 +110,10 @@ Similarly, business students can be put into the actual cases that they are assi
 **Medical Training**
 
 A VR system application can be used to imitate the practice environment of a surgeon by simulating the real cause of the patient's illness. Another company, Y, that is developing an application for surgery simulation has included a software display with instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. Their learning mode also allows for a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
-https://www.youtube.com/watch?v=7C7zAXf2EI0
+
+![](https://www.youtube.com/watch?v=7C7zAXf2EI0)
+
+![](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
 
 
 **Scientific Concepts**
@@ -126,6 +129,3 @@ Imagine if instead of watching this explanatory video, a student could put on a 
 **History Courses**
 
 Finally, Virtual Reality could make the lecture and reading based history class one of the most fun courses for students by, similar to the business case applicability, fully immersing students into events of the past. Going to class, putting on a headset, and in the blink of an eye suddenly appearing moments before Abraham Lincoln's Gettysburg Address would be nothing short of immersive and memorable. One thing history class can teach is the facts, but one it can not truly convey to students are the feelings felt throughout some historical events. Virtually being in the middle of the crowd during the ‘I have a Dream Speech’ would probably make any student understand the sheer magnitude of importance and emotions experienced at the moment.
-
-
-## Potential for the Future
