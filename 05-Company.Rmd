@@ -1,22 +1,29 @@
 # Company Use
 
-## Commerce
+## Opportunities for Internal Integration
+
+As stated previously, companies have the ability to take advantage of VR technology and the Metaverse as well. Our team brainstormed some three possible ways to be implemented in a professional environment. Firstly, companies could try to replace video calls for remote workers by (hopefully) granting each of them a virtual reality headset. Each employee would use enter virtual conference calls using their headsets and work similar to how remote work is being done now. The advantage here is that having 3D communication with their coworkers might increase productivity and health for the users. Companies could also assign a couple of VR rooms in their buildings which are used for more special occasions. These could be sued to communicate with workers in far away branches or with clients around the world to establish warmer connections than typical video call applications, like Zoom. Finally, another form of integration for companies would be very similar to how we proposed VR could be used in the classroom. Everyone has access to a VR headset, and they are used to enhance the team meeting experience. A employee could choose to present by integrating the uses of VR. Scenarios and simulations like the ones explained in the previous section could be used to communicate certain aspects and topics better. 
+
+## Commerce & Entertainment
 
 With the rise of digital commerce, the Metaverse will unlock new opportunities for buyers and sellers to connect in a new way. You could imagine your shop on Instagram becoming more immersive, with the option to buy physical or digital products.
 
-**NFT**
+**A new form of Commerce through NFTs**
 
+<center>
 ![](images/nft.png){width=300}
+</center>
 
 One of the most popular commerce products in the Metaverse is the NFT, which stands for non-fungible token. “Non-fungible” means that its unique and can not be replaced with something else. For example, a one-of-a-kind trading card is non-fungible. If you traded it for a different card, you would have something completely different. NFTs can really be anything digital (such as drawings, music, or your brain downloaded and turned into an AI), but a lot of the current excitement is around using the tech to sell digital art. NFTs are designed to give you something that can’t be copied: ownership of the work (though the artist can still retain the copyright and reproduction rights, just like with physical artwork). To put it in terms of physical art collecting: anyone can buy a Monet print, but only one person can own the original. 
 
-## Entertainment
+**The Metaverse application in Entertainment and Aespa**
 
-Today you can host a paid online event on Facebook, but imagine if you could make this a mixed-reality experience where people could join in person or buy a ticket for the virtual experience. We saw this during the Facebook 2021 Connect event when two friends were able to enjoy the same concert, one in person and the other joining in the Metaverse.
+Another industry where this technology has proven its utility and versatility is in Entertainment. Today, you can host a paid online event on Facebook, but imagine if you could make this a mixed-reality experience where people could join in person or buy a ticket for the virtual experience. We saw this during the Facebook 2021 Connect event when two friends were able to enjoy the same concert, one in person and the other joining in the Metaverse.
 
-**The Metaverse Application in Aespa**
 
+<center>
 ![](images/aespa metaverse.jpg){width=300}
+</center>
 
 The Aespa girl group debuted in 2020 and made the first move into the meta-universe market for the K-pop market. Aespa is the group formed by 8 people, but technically only 4 real humans and their respective virtual counterparts. This concept of combining teams and The Metaverse has been strongly welcomed by Generation Z. Each music video is interspersed with a large amount of the Metaverse concepts, visual sound effects, and avatars performance. And this concept is also widely used in their CD products, by scanning the QR code on the CD, fans can view the videos and voices recorded by Aespa members through the mobile phone app, or interact with their avatars. The Metaverse market concept has brought extremely popularity to Aespa, and also made K-pop realize the power of the Metaverse concept. Perhaps in the future, we will see more music groups using the concept of Metaverse.
 

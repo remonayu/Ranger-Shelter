@@ -2,18 +2,16 @@
 
 ## General Classrom Use
 
-**Students**
+VR is going to give teachers and students what previously have been unavailable. Teachers could use VR for simulations, giving the students an almost realistic setting. For example, over the past week, the students of OYM participated in a business simulation called BizCafe, where students managed a new coffee shop. Though the website made this simulation extremely detailed, it didn’t feel real. However, if we were to use VR for this simulation, we could have really immersed ourselves in a “real” coffee shop, and “seen” its daily operations. As shop owners, we could’ve “talked” to the NPC’s like employees and customers. VR would’ve added a “realistic” touch to the online simulation. 
 
-VR is going to give teachers and students what previously have been unavailable. Teachers could use VR for simulations, giving the students an almost realistic setting. For example, over the past week, the students of OYM participated in a business simulation called BizCafe, where students managed a new coffee shop. Though the website made this simulation extremely detailed, it didn’t feel real. However, if we were to use VR for this simulation, we could have really immersed ourselves in a “real” coffee shop, and “seen” its daily operations. As shop owners, we could’ve “talked” to the npc’s like employees and customers. VR would’ve added a “realistic” touch to the online simulation. 
-
-In general, students are more attracted to less conventional teaching methods. Aside from using VR in simulations, teachers should incorporate VR in regular, everyday classroom, where they “transport” students into the subject they are studying. Students will be able to literally “touch”, “see”, and “interact” with the things they are studying. For example, medical students can use VR to operate on bodies; engineering students can use VR to build models; computer science majors can use VR to “move” codes around, and see the “inner mechanism” of softwares, etc. VR gives teachers the possibility to create a truly immersive and interactive studying environment, and the actual content should depend on the subject. By doing so, students will definitely become more attentive in the classroom. 
+In general, students are more attracted to less conventional teaching methods. Aside from using VR in simulations, teachers should incorporate VR in regular, everyday classrooms, where they “transport” students into the subject they are studying. Students will be able to literally “touch”, “see”, and “interact” with the things they are studying. For example, medical students can use VR to operate on bodies; engineering students can use VR to build models; computer science majors can use VR to “move” code snippets around, and see the “inner mechanism” of softwares, etc. VR gives teachers the possibility to create a truly immersive and interactive studying environment, and the actual content should depend on the subject. By doing so, students could become more attentive in the classroom and recall its contents better. 
 
 As you can imagine, a virtual class environment will include more distractions than a conventional classroom. In order to only impose positive changes to the classroom, the teachers need to make sure of the following: 
 
 * Before the classes start, the teachers should set rules for classroom etiquette. The rule should include things like no smartphone usage or limited activities that are unrelated to the class material. 
 * The teacher should set clear expectations for the students, and openly communicate with them. 
 * Be explicit about when the students should be participating, versus when they are free to explore on their own. 
-* It is ok for students to socialize during class, but only during the time frames set by the teachers. 
+* It is OK for students to socialize during class, but only during the time frames set by the teachers. 
 * Limit class time to keep students engaged with the right amount of energy. This can also avoid the possibility of burnout or other negative health implications from using VR headsets for an extended period of time. 
 * The professor should only use softwares that aligns with the educational goals, have been widely adopted, and backed up with extensive technical support. 
 * Make sure that the class material’s learning curve is not too steep for the students’ level. 
@@ -21,19 +19,11 @@ As you can imagine, a virtual class environment will include more distractions t
 
 Using VR in the classrooms will revolutionize the education industry. Students will be able to get hands-on experience in the classroom, improving the lesson’s effectiveness and students’ productivity. However, the teachers need to make sure that VR does not sidetrack their students’ academic progress.  
 
-**Professors**
+## Professors' Guidelines
 
-In this section, we explore the instruction from professor’s perspective. Based on under story we have created from professor interview, the concern of “increase student’s productivity in class” will be addressed. 
+**Factors that affect student productivity**
 
-To design the instruction of a productive metaverse classroom, it is important to understand the motivation factor behind productivity. The article, improving educaiton productivity from Herbert J. Walberg, examines the factor that influence productivity by meta-analysis and control group research. The following table summrized nine factors on educational productivity, followed by propotional learning effect as decimal number list on the right.  
-
-## Immersive experience for classroom
-
-**Factor effect productivity**
-
-In this section, we explore the instruction from professor’s perspective. Based on under story we have created from professor interview, the concern of “increase student’s productivity in class” will be addressed. 
-
-To design the instruction of a productive metaverse classroom, it is important to understand the motivation factor behind productivity. The article, improving educaiton productivity from Herbert J. Walberg, examines the factor that influence productivity by meta-analysis and control group research. The following table summrized nine factors on educational productivity, followed by propotional learning effect as decimal number list on the right. 
+To design the instruction of a productive Metaverse classroom, it is important to understand the motivation factor behind productivity. The article, "Improving Education Productivity" from Herbert J. Walberg, examines the what factors influence productivity the most by using meta-analysis and control group research. The following table summarizes the nine major factors that affect educational productivity, followed by their proportional learning effects. 
 
 
 | Factor              | Proportional Learning Influence |
@@ -42,19 +32,19 @@ To design the instruction of a productive metaverse classroom, it is important t
 | Ability or preferable prior achievement as measured by the standardized tests| 0.92 |
 | Development as indexed by chronological age or stage of maturation           | 0.51 |
 | Motivation or self-concept as indicated by personality tests or the student's willingness to persevere intensively on learning tasks | 0.18 |
-| B. instruction |                        |
+| B. Instruction |                        |
 | Amount of time students engage in learning | 0.47 |
 | Quality of the instructional experience, including method (psychological) and curricular (content) aspects | 0.18 |
-| C.Psychological Environments |          |
+| C. Psychological Environments |          |
 | Morale or student perception of classroom social group | 0.47 |
 | Home environment or "curriculum of the home" | 0.36 |
 | Peer group outside school | 0.20 |
 | Minimal leisure-time mass media exposure, particularly television | 0.20 |
-<<<<<<< HEAD
-[(Table 1)](https://www.researchgate.net/publication/44829325_Improving_educational_productivity)
-=======
 
-Based on table 1, we can confirm that a student's knowledge of a particular field is heavily dependent on his or her own judgment of achievement/ability. If a student has achieved good grades in finance in the past, he/she will be more motivated to learn finance in the future because of the default "I am capable/gifted in finance". Based on this factor, we can infer that when a professor helps students to reshape their perceptions of a field from "knowledge is difficult and I don't want to learn it" to "knowledge is not difficult and I can understand it", it has a significant effect on students' motivation to learn This will have a significant effect on students' motivation. The implementation of this approach requires not only efficient teaching methods but also positive psychological cues for students. To ensure the long-term motivation and productivity of students.
+[(Table 1)](https://www.researchgate.net/publication/44829325_Improving_educational_productivity)
+
+
+Based on Table 1, we can confirm that a student's knowledge of a particular field is heavily dependent on his or her own judgment of achievement/ability. If a student has achieved good grades in finance in the past, he/she will be more motivated to learn finance in the future because of the default "I am capable/gifted in finance". Based on this factor, we can infer that when a professor helps students to reshape their perceptions of a field from "knowledge is difficult and I don't want to learn it" to "knowledge is not difficult and I can understand it", it has a significant positive effect on students' motivation to learn. The implementation of this approach requires not only efficient teaching methods but also positive psychological cues for students. To ensure the long-term motivation and productivity of students.
 
 
 | Category | Average Effect |
@@ -67,37 +57,30 @@ Based on table 1, we can confirm that a student's knowledge of a particular fiel
 | Cooperative learning | 0.73 |
 | Setting goals and providing feedback | 0.61 |
 | Generating and testing hypotheses | 0.61 |
-|  Activating prior knowledge | 0.59 |
-<<<<<<< HEAD
+| Activating prior knowledge | 0.59 |
+
 [(Table 2)](https://www.researchgate.net/publication/44829325_Improving_educational_productivity)
-=======
 
 
-The article also assesses the impact of delivery methods by measuring the effectiveness of students' understanding of new knowledge. table 1 shows the impact of the nine most common delivery methods used across the United States.
+The article also assesses the impact of delivery methods by measuring the effectiveness of students' understanding of new knowledge. Table 1 shows the impact of the nine most common delivery methods used across the United States.
 
-**Re-deisgn the class structure based on educational factor on productivity**
+**Re-design the class structure**
 
 With the proportional learning influence on educational productivity, we generated seven principles to form a productive classroom. Followed by the degree ranking of influence factors on education. Those include: 
 
 1. Provide diagnostic test/background survey to measure student’s skill and capability for class content. Modifying the class structure and content according to the student's background to provide suitable content for gaining higher knowledge. 
 
-2.  Range class on grade/credit. Provide different amounts of homework and completion time based on range. For student to better understand the class concept in line with their self learning ability. 
+2. Range class on grade/credit. Provide different amounts of homework and completion time based on range. For students to better understand the class concept in line with their self learning ability. 
 
-3. Provide hour estimation for concept undertstadning, assignment, and group project. To help student better understand time and effort expect from the class
+3. Provide hour estimation for concept understanding, assignment, and group project. To help students better understand time and effort expect from the class
 
 4. Increase morale/perception of class to ensure a better learning environment. Action could include increase class interaction/group discussion/group work 
 
-5. Offer well-designed homework to collaborate with class lecture, to help student better understand class concept/knowledge
+5. Offer well-designed homework to collaborate with class lecture, to help students better understand class concept/knowledge
 
 6. Prohibit possible distraction to classroom, especially electronic devices
 
-7. Constantly review the quality of instructional experience. Review should be based on class feedback and overall performance of students. (quality of instructional experience should include psychological metod & curricular aspects)
-
-**Metaverse Classroom principle**
-
-We provide a draft on metaversmic classroom principles based on the  Zoom Teaching Code published in 2021 from the University of North Carolina. The following principle was created based on the scenario of a complete metacosmic classroom ().  
-
-(*Teachers need to adjust the following rules based on how dependent the classroom is on the metaverse and how long vr devices are used:)
+7. Constantly review the quality of instructional experience. Review should be based on class feedback and overall performance of students. (quality of instructional experience should include psychological methods & curricular aspects)
 
 
 ## Examples in Different Professions
@@ -114,9 +97,7 @@ Similarly, business students can be put into the actual cases that they are assi
 
 A VR system application can be used to imitate the practice environment of a surgeon by simulating the real cause of the patient's illness. Another company, Y, that is developing an application for surgery simulation has included a software display with instructions for the trainer and provides credit/feedback after the training has been completed. Meanwhile, dual/multi-perspective are supported, to increase proficiency and cooperation for the surgery team in reality. Their learning mode also allows for a better understanding of the position and structure of human organs, by allowing multiple perspective interactions between trainer and 3D patient model. For example, the spine model can be removed from the patient’s back for a better observation. Repetitive practice and real time recording are also outstanding points of VR training model, providing big help with retrospect problems. 
 
-![](https://www.youtube.com/watch?v=7C7zAXf2EI0)
-
-![](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
+This is a [video](https://www.youtube.com/watch?v=7C7zAXf2EI0) demonstrating how surgical training can be done up 5x faster using virtual reality.
 
 
 **Scientific Concepts**
@@ -131,4 +112,4 @@ Imagine if instead of watching this explanatory video, a student could put on a 
 
 **History Courses**
 
-Finally, Virtual Reality could make the lecture and reading based history class one of the most fun courses for students by, similar to the business case applicability, fully immersing students into events of the past. Going to class, putting on a headset, and in the blink of an eye suddenly appearing moments before Abraham Lincoln's Gettysburg Address would be nothing short of immersive and memorable. One thing history class can teach is the facts, but one it can not truly convey to students are the feelings felt throughout some historical events. Virtually being in the middle of the crowd during the ‘I have a Dream Speech’ would probably make any student understand the sheer magnitude of importance and emotions experienced at the moment.
+Finally, virtual reality could make the lecture and reading based history class one of the most fun courses for students by, similar to the business case applicability, fully immersing students into events of the past. Going to class, putting on a headset, and in the blink of an eye suddenly appearing moments before Abraham Lincoln's Gettysburg Address would be nothing short of immersive and memorable. One thing history class can teach is the facts, but one it can not truly convey to students are the feelings felt throughout some historical events. Virtually being in the middle of the crowd during the ‘I have a Dream Speech’ would probably make any student understand the sheer magnitude of importance and emotions experienced at the moment.
